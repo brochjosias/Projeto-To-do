@@ -22,4 +22,6 @@ Instale as Dependências: npm install;
 
 Inicie o Projeto: npm run dev;
 
+Clique no link fornecido para acessar;
+
 Assim que carregar aparecerá o sistema em seu navegador padrão.
