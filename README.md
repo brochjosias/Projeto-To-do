@@ -20,6 +20,8 @@ cd todo;
 
 Instale as Dependências: npm install;
 
+cd todo;
+
 Inicie o Projeto: npm run dev;
 
 Clique no link fornecido para acessar;
