@@ -13,10 +13,10 @@ Filtragem por área da tarefa ou em ordem alfabética
 
 ## Tecnologias Utilizadas
 
-Linguagens de Programação: _JavaScript_, _HTML_, _CSS_
-Framework: _React_
-Banco de Dados: _Local Storage_
-_É um sistema front-end pronto para ser integrado_
+- JavaScript
+- HTML
+- CSS
+- React
 
 ## Faça o download do repositório e em seu ambiente de desenvolvimento:
 
